@@ -30,10 +30,16 @@ _The Coolest and Unique Criminals NFT Collections, IDO, ICO, MEME token_
 
 | 🌟 Project | 🔗 Link |
 |---|---|
-| ANAI Services | [anai.services](https://www.anai.services/) |
-| IBC Meme | [ibcmeme.com](https://www.ibcmeme.com/) |
-| Meme IBC Meme | [meme.ibcmeme.com](https://meme.ibcmeme.com/) |
-| IBC Corporation | [ibc-corporation.vercel.app](https://ibc-corporation.vercel.app/) |
+| IBC Corporation | [ibc-coin.com](https://ibc-coin.com/) |
+| $IBCM Presale | [ibcmeme.com](https://www.ibcmeme.com/) |
+| $IBCM Solana MEME | [meme.ibcmeme.com](https://meme.ibcmeme.com/) |
+| $ANAIS Presale| [anai.services](https://www.anai.services/) |
+| $AnAI Presale | [thirdweb.com/binance/0x8a68...](https://thirdweb.com/binance/0x8a688bB5603163F6AD958B336937515fA67B0A1A) |
+| $CCUC Trade | [moon.it/tokens/38eGd8ad39V...](https://moon.it/tokens/38eGd8ad39VdtUGZs8MCBdLGtmaFvEdPXNfSx2bemoon) |
+| $CCUM Trade | [pump.fun/coin/BSci6qLkhS...](https://pump.fun/coin/BSci6qLkhSWTqw29dwnEQAzLfZWuTdoR6pTBjty4pump) |
+| NanSwap NFTs Collection | [CoolCriminals on NanSwap](https://nanswap.com/art/collection/boH7EbKiM96?status=listed&sort=askLowToHigh&accessURL=boH7EbKiM96&minPrice=&maxPrice=) |
+| OpenSea Collection | [CoolCriminals](https://opensea.io/CoolCriminals) |
+| CCUniverse Official Site | [CoolCriminalUniverse Official](https://www.coolcriminals-universe.store/) |
 
 ---
 
