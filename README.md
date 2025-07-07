@@ -7,7 +7,7 @@
   🕶️🎉 Welcome to CoolCriminalUniverse Headquarters! 🎉🕶️
 </h1>
 <p align="center">
-  <img src="https://i.ibb.co/G4C8Bc0W/CCUM.png" alt="CoolCriminals Logo" width="120"/>
+  <img src="https://i.ibb.co/6cRGLYBJ/CCUhq010.png" alt="CoolCriminals Logo" width="100%"/>
 </p>
 
 ---
