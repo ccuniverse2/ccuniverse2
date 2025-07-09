@@ -45,7 +45,7 @@ _The Coolest and Unique Criminals NFT Collections, IDO, ICO, MEME token_
 
 ## 🌐 NFTs Collections Links 💃🕺
 
-- **NanSwap:** [XNO]([https://x.com/anai_service](https://nanswap.com/art/collection/boH7EbKiM96?accessURL=boH7EbKiM96&minPrice=&maxPrice=))
+- **NanSwap:** [CoolCriminalUniverse Official](https://nanswap.com/art/collection/boH7EbKiM96?accessURL=boH7EbKiM96&minPrice=&maxPrice=)
 - **OpenSea:** (https://opensea.io/collection/coolcriminals-universe-headquarter)
 - **CoolCriminals All Collections:** [CoolCriminals on Opensea]([https://nanswap.com/art/collection/boH7EbKiM96?status=listed&sort=askLowToHigh&accessURL=boH7EbKiM96&minPrice=&maxPrice=](https://opensea.io/0x0733255e68b25502f0866cd9785d892fbc20e75a))
 - **CCUniverse:** [CoolCriminalUniverse Official](https://www.coolcriminals-universe.store/)
