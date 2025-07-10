@@ -1,5 +1,5 @@
-<div>
-<h1>  🕶️🎉 Welcome to CoolCriminalUniverse Project! 🎉🕶️</h1>
+<div align="center">
+<h1 align="center">  🕶️🎉 Welcome to CoolCriminalUniverse Project! 🎉🕶️</h1>
 <img src="https://i.ibb.co/G4C8Bc0W/CCUM.png"  alt="CoolCriminals Logo" width="50%" />
   <h2>Hi there, welcome to the CoolCriminalUniverseNFTs, Tokenomics, Dapp & DeFi Projects!  </h2>
   <p><a href="https://pump.fun/coin/BSci6qLkhSWTqw29dwnEQAzLfZWuTdoR6pTBjty4pump">Let’s Trade the CoolCriminalUniverse Solana MEME Token .</a></p>
