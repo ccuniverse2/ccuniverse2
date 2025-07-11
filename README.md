@@ -14,11 +14,12 @@
 
 ---
 
-## 🏢 Base of CoolCriminals
+## 🏢 Documentations of CCUniverse Gitbook
 
-**CoolCriminalUniverse Headquarters**  
-_The Coolest and Unique Criminals NFT Collections, IDO, ICO, MEME token_
-
+**Explore The Documentation of CoolCriminal Universe**  
+_<p><a href="https://coolcriminal-universe.gitbook.io/ccuniverse/" target=_blank>CCUniverse Introduction</p>
+_<p><a href="https://coolcriminal-universe.gitbook.io/ccuniverse/" target=_blank>Oficial Docx</p>
+_<p><a href="https://github.com/users/ccuniverse2/projects/1" target=_blank>CCUniverse Project Updates</p>
 ---
 
 ## 🛠️ Technical Protocol
