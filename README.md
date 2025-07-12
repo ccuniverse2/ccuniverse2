@@ -89,6 +89,29 @@ _<p><a href="https://github.com/users/ccuniverse2/projects/1" target=_blank>CCUn
 
 ---
 
+## ## Support & Donation
+
+We are excited to announce that the **SAGA series of CoolCriminal Universe will launch soon!** Your support means a lot to us as we work hard to bring this project to life.
+
+If you would like to support our upcoming project and help us build an even better experience, donations are greatly appreciated! Every contribution helps us move forward and shows us that you believe in what we're creating.
+
+**Donation Fund Addresses:**
+
+- **Solana:** `2rngiVRtprH3GhFZ5ck1hCfozeMGA9ABhiECq2hnT7hU`
+- **Ethereum (ETH):** `0x02a7f1D0e793079392dceDE497555F83a50d9BA7`
+- **BASE:** `0x02a7f1D0e793079392dceDE497555F83a50d9BA7`
+- **SUI:** `0x9c27afe7f5136ad95d40952155ebb8c57d04a795c1b66644d2f29d41697d6990`
+- **Polygon:** `0x02a7f1D0e793079392dceDE497555F83a50d9BA7`
+- **Bitcoin:** `bc1qw8jpkx35hsdra8yg3qcks2j4xllnc3lwgt2yx0`
+
+---
+
+### Thank you!
+
+Your generosity and encouragement inspire us to keep building and innovating. Thank you for being a part of our journey!
+
+Stay tuned — **the SAGA series of CoolCriminal Universe is coming soon!**
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7931A&center=true&width=700&lines=Stay+Cool+%F0%9F%95%B6%EF%B8%8F;Keep+Collecting+%F0%9F%8E%89;Party+with+the+Coolest+NFTs!+%F0%9F%8E%B6" alt="Typing SVG" />
 </div>
