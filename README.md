@@ -5,7 +5,7 @@ Welcome to the **CoolCriminalUniverse** Official DeFi, NFTs, Tokenomics, and Dap
 ---
 
 <p align="center">
-  <img src="[https://i.ibb.co/G4C8Bc0W/CCUM.png](https://i.ibb.co/zHGZP7bd/CCUC-spl-logo.png)" alt="CoolCriminals Logo" width="120" />
+  <img src="[https://i.ibb.co/zHGZP7bd/CCUC-spl-logo.png]" alt="CoolCriminals Logo" width="120" />
 </p>
 
 ## 🏁 The Official IDO, ICO, DAO and NFTs Launchpad
