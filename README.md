@@ -16,7 +16,7 @@ Welcome to the **CoolCriminalUniverse** Official DeFi, NFTs, Tokenomics, and Dap
 | Project | Logo | Link | Note |
 |---|---|---|---|
 | **CCUC - CoolCriminalUniverse DeFi** | <img src="https://i.ibb.co.com/dsXDFZb4/CCUC-spl-logo.png" alt="CCUC" width="50"/> | [Go To Website](https://v2.coolcriminal.space/) | Official CoolCriminal Universe Project DeFi |
-| **CCUM - CoolCriminal ICO, IDO, DAO, Launchpad** | <img src="https://i.ibb.co/G4C8Bc0W/CCUM.png" alt="CCUM" width="50"/> | [Trade CCCUM(https://pump.fun/coin/AmjcRH341ppCZmCzvdHVf3z1NwL3pAAKvqJGPHbLJKRf) | Track $CCUM Live Update |
+| **CCUM - CoolCriminal ICO, IDO, DAO, Launchpad** | <img src="https://i.ibb.co/G4C8Bc0W/CCUM.png" alt="CCUM" width="50"/> | [Trade CCCUM](https://pump.fun/coin/AmjcRH341ppCZmCzvdHVf3z1NwL3pAAKvqJGPHbLJKRf) | Track $CCUM Direct with SOL |
 | **Airdrop & Rewards** | <img src="https://i.ibb.co/sJR49PPX/Bull.png" alt="Airdrop" width="50"/> | [Stack CCUM Highest 49% APR](https://coolcriminal.space) | Stacking CCUM up to 36 days on Our Official Platform and get airdrops up to 200 SOL! 🎉 |
 
 </div>
