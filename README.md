@@ -8,6 +8,21 @@ Welcome to the **CoolCriminalUniverse** Official DeFi, NFTs, Tokenomics, and Dap
   <img src="https://i.ibb.co/VYTs4wcb/CCUC-removebg-preview.png" alt="CoolCriminals Logo" width="300" />
 </p>
 
+
+## 🎉 Latest Updates CCUC Projects 
+
+<div align="center">
+
+| Project | Logo | Link | Note |
+|---|---|---|---|
+| **CCUC - CoolCriminalUniverse DeFi** | <img src="https://i.ibb.co.com/dsXDFZb4/CCUC-spl-logo.png" alt="CCUC" width="50"/> | [Explore on Pump.Fun](https://v2.coolcriminal.space/) | Official CoolCriminal Universe Project DeFi |
+| **CCUM - CoolCriminal ICO, IDO, DAO, Launchpad** | <img src="https://i.ibb.co/G4C8Bc0W/CCUM.png" alt="CCUM" width="50"/> | [Trade on Pump Fun](https://pump.fun/coin/AmjcRH341ppCZmCzvdHVf3z1NwL3pAAKvqJGPHbLJKRf) | Discover CoolCriminal's Latest Assets |
+| **Airdrop & Rewards** | <img src="https://i.ibb.co/sJR49PPX/Bull.png" alt="Airdrop" width="50"/> | [Hold IBCM for Rewards](https://pump.fun/coin/AmjcRH341ppCZmCzvdHVf3z1NwL3pAAKvqJGPHbLJKRf) | Hold IBCM up to 30 days on Pump Fun & get up to 200 SOL! 🎉 |
+
+</div>
+
+---
+
 ## 🏁 The Official IDO, ICO, DAO and NFTs Launchpad
 
 [![Explore The Craziest NFTs Collections !!!](https://img.shields.io/badge/Explore%20NFTs-Opensea-blueviolet?style=for-the-badge&logo=opensea)](https://opensea.io/CoolCriminals)
