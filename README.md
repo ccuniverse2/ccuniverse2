@@ -16,7 +16,7 @@ Welcome to the **CoolCriminalUniverse** Official DeFi, NFTs, Tokenomics, and Dap
    <img src="https://i.ibb.co/G4C8Bc0W/CCUM.png" alt="CoolCriminals DeFi"/>
 </p>
 
-[![Explore The DeFi!](https://img.shields.io/badge/Explore%20on-Opensea-blue?style=for-the-badge&logo=coolcriminal)](https://coolcriminal.space)
+[![Explore The DeFi!](https://img.shields.io/badge/Explore%20on-CoolCriminal-blue?style=for-the-badge&logo=coolcriminal)](https://coolcriminal.space)
 
 ---
 
