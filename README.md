@@ -8,12 +8,17 @@ Welcome to the **CoolCriminalUniverse** Official DeFi, NFTs, Tokenomics, and Dap
   <img src="https://i.ibb.co/VYTs4wcb/CCUC-removebg-preview.png" alt="CoolCriminals Logo" width="300" />
 </p>
 
+---
 
 ## 🎉 Latest Updates CCUC Projects 
 
 <p align="center">
-  <img src="https://i.ibb.co.com/5hMyz39H/Screenshot-2025-08-05-at-6-40-54-PM.png" alt="CoolCriminals DeFi SS" width="400"/>
+   <img src="https://i.ibb.co.com/5hMyz39H/Screenshot-2025-08-05-at-6-40-54-PM.png" alt="CoolCriminals DeFi SS" width="400"/>
 </p>
+
+[![Explore The DeFi!](https://img.shields.io/badge/Explore%20on-Opensea-blue?style=for-the-badge&logo=opensea)](https://coolcriminal.space)
+
+---
 
 <div align="center">
 
