@@ -12,7 +12,7 @@ Welcome to the **CoolCriminalUniverse** Official DeFi, NFTs, Tokenomics, and Dap
 ## 🎉 Latest Updates CCUC Projects 
 
 <p align="center">
-  <img src="" alt="CoolCriminals DeFi SS" width="400"/>
+  <img src="https://i.ibb.co.com/5hMyz39H/Screenshot-2025-08-05-at-6-40-54-PM.png" alt="CoolCriminals DeFi SS" width="400"/>
 </p>
 
 <div align="center">
