@@ -15,13 +15,6 @@ Welcome to the **CoolCriminalUniverse** Official DeFi, NFTs, Tokenomics, and Dap
 
 Welcome to the **CoolCriminalUniverse** Official NFT Marketplace & DAO Lauchpad!
 
----
-
-<p align="center">
-  <img src="https://i.ibb.co/VYTs4wcb/CCUC-removebg-preview.png" alt="CoolCriminals Logo" width="300" />
-</p>
-
----
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mr-bishals-projects/v0-full-stack-nft-dapp)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://coolcriminal.space)
