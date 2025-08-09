@@ -12,11 +12,99 @@ Welcome to the **CoolCriminalUniverse** Official DeFi, NFTs, Tokenomics, and Dap
 
 ## 🎉 Latest Updates CCUC Projects 
 
+
+Welcome to the **CoolCriminalUniverse** Official NFT Marketplace & DAO Lauchpad!
+
+---
+
 <p align="center">
-   <img src="https://i.ibb.co/G4C8Bc0W/CCUM.png" alt="CoolCriminals DeFi"/>
+  <img src="https://i.ibb.co/VYTs4wcb/CCUC-removebg-preview.png" alt="CoolCriminals Logo" width="300" />
 </p>
 
-[![Explore The DeFi!](https://img.shields.io/badge/Explore%20on-CoolCriminal-blue?style=for-the-badge&logo=coolcriminal)](https://coolcriminal.space)
+---
+
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mr-bishals-projects/v0-full-stack-nft-dapp)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://coolcriminal.space)
+
+## Overview
+
+This is the CoolCriminal Marketplace Version 1.0.2.
+Bugs Fixed
+<p align="center">
+  <img src="https://i.ibb.co.com/vxyCV2qm/Screenshot-2025-08-09-at-3-05-30-PM.png" />
+</p>
+
+
+## Deployment
+
+Project is live at:
+
+**[https://coolcriminal.space](https://coolcriminal.space)**
+
+---
+
+<div align="center">
+
+| Project | Logo | Link | Note |
+|---|---|---|---|
+| **CCUC - CoolCriminalUniverse DeFi** | <img src="https://i.ibb.co.com/dsXDFZb4/CCUC-spl-logo.png" alt="CCUC" width="50"/> | [Go To Website](https://v2.coolcriminal.space/) | Official CoolCriminal Universe Project DeFi |
+| **CCUM - CoolCriminal ICO, IDO, DAO, Launchpad** | <img src="https://i.ibb.co/G4C8Bc0W/CCUM.png" alt="CCUM" width="50"/> | [Trade CCCUM](https://pump.fun/coin/AmjcRH341ppCZmCzvdHVf3z1NwL3pAAKvqJGPHbLJKRf) | Track $CCUM Direct with SOL |
+| **Airdrop & Rewards** | <img src="https://i.ibb.co/sJR49PPX/Bull.png" alt="Airdrop" width="50"/> | [Stack CCUM Highest 49% APR](https://coolcriminal.space) | Stacking CCUM up to 36 days on Our Official Platform and get airdrops up to 200 SOL! 🎉 |
+
+</div>
+
+---
+## Project Showcase
+
+<h3 align="center">CoolCriminal Universe Collections</h3>
+<p align="center">
+  <img src="https://i.ibb.co.com/bRywH36S/1.png" />
+</p>
+<p align="center">
+  <img src="https://i.ibb.co.com/Kj3T22bJ/2.png" />
+</p>
+....
+<h3 align="center">Multi-Chain Supported</h3>
+<p align="center">
+  <img src="<h3 align="center">CoolCriminal Universe Collections</h3>" />
+</p>
+...
+<h3 align="center">Higher APR Staking</h3>
+<p align="center">
+  <img src="https://i.ibb.co.com/bRPjwMw4/4.png" />
+</p>
+<p align="center">
+  <img src="https://i.ibb.co.com/Y73sCVQt/Screenshot-2025-08-09-at-3-15-08-PM.png" />
+</p>
+...
+<h3 align="center">Airdrops & Rewards</h3>
+<p align="center">
+  <img src="https://i.ibb.co.com/Kz70b9nq/6.png" />
+</p>
+<p align="center">
+  <img src="https://i.ibb.co.com/F4tQN57F/7.png" />
+</p>
+<p align="center">
+  <img src="https://i.ibb.co.com/C310GP8T/8.png" />
+</p>
+
+...
+<h3 align="center">ADAO $CCUM</h3>
+<p align="center">
+  <img src="https://i.ibb.co.com/vvvNRSSf/9.png" />
+</p>
+<p align="center">
+  <img src="https://i.ibb.co.com/NgpCBz8s/10.png" />
+</p>
+<p align="center">
+  <img src="https://i.ibb.co.com/twQJWgGB/11.png" />
+</p>
+
+
+
+---
+
+
 
 ---
 
